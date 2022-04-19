@@ -1,0 +1,9 @@
+{
+   "tip": "araba",
+   "tur": "otomobil",
+   "urunler": [
+       {"marka": "Hyundai", "model": "1.3 LS", "yil": 1997},
+       {"marka": "Toyota", "model": "Corolla", "yil": 2007},
+       {"marka": "Ford", "model": "Focus", "yil": 2015}
+       ]
+}

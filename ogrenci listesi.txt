@@ -1,0 +1,3 @@
+Adı=TALHA Soyadı=AYGEN NOTLARI= (90, 10, 50)
+Adı=ZÜLAL Soyadı=DİLA NOTLARI= (44, 44, 44)
+Adı=ÖNEN Soyadı=AYGEN NOTLARI= (90, 99, 72)

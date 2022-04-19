@@ -1,0 +1,37 @@
+{
+    "0": {
+        "kullaniciadi": "talha18",
+        "mail": "mail@",
+        "parola": "12345"
+    },
+    "1": {
+        "kullaniciadi": "talha",
+        "mail": "aygen@mail",
+        "parola": "12345"
+    },
+    "2": {
+        "kullaniciadi": "fsmHanHz",
+        "mail": "fsm@mail",
+        "parola": "1234567"
+    },
+    "3": {
+        "kullaniciadi": "admin",
+        "mail": "mail",
+        "parola": "1111"
+    },
+    "4": {
+        "kullaniciadi": "talha",
+        "mail": "mail",
+        "parola": "deli1"
+    },
+    "5": {
+        "kullaniciadi": "dsfgh",
+        "mail": "df",
+        "parola": "dfg"
+    },
+    "6": {
+        "kullaniciadi": "talha",
+        "mail": "@gmail.com",
+        "parola": "123456"
+    }
+}
